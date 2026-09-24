@@ -7,7 +7,7 @@ Algorithm
 5. Call set() on each object, then call show() on each object.
 6. Stop.
 
-Program 1.1 — StudentDemo.java (22 lines)
+//Program 1.1 — StudentDemo.java (22 lines)
 // Ex 1(a): class, object and methods
 class Student {
 int roll;
