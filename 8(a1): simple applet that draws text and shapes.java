@@ -1,9 +1,7 @@
 
 import java.applet.Applet;
 
-Page 34 of 62
 
-SCSVMV University | Department of Computer Science and Engineering | Java Programming Laboratory
 
 import java.awt.*;
 public class HelloApplet extends Applet {
